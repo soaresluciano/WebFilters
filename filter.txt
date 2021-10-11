@@ -4,3 +4,4 @@
 ! Expires: 4 days
 
 www.theverge.com##.m-privacy-consent
+www.bol.com##+js(rc, modal--is-open, body)
