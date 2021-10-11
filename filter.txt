@@ -1,1 +1,6 @@
+! Title: Luciano's Personal Filters
+! Homepage: https://github.com/soaresluciano/WebFilters
+! Author: soaresluciano
+! Expires: 4 days
+
 www.theverge.com##.m-privacy-consent
